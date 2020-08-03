@@ -1,0 +1,91 @@
+/* fonts */
+body{
+	background-color: rgb(220, 236, 182);
+	margin: 0px;
+	font-family:'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+ font-family: 'MuseoModerno', cursive;
+ color: #0A122A;
+ font-weight: 300;
+ font-size: 40px;
+ margin: 0px;
+
+ }
+
+h2 {
+    font-size: 25px;
+	padding: 25px;
+	margin: 0px;
+
+	
+}
+
+p {
+	font-size: 18px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.info {
+	
+	margin: 0px;
+	border-radius: 20px;
+
+}
+
+.encabezado {
+	background-color: #dcb29f;
+	padding: 10px;
+	margin: 0px 0px;
+}
+
+
+
+
+
+
+.avatar {
+	width: 90px;
+	height: 85px;
+	margin: 0px 0px 10px 10px;
+    border-radius: 50px;
+	border: 1px solid #b3b3b3;
+	box-shadow: 2 2px 3px black;
+}
+
+.card-category {
+	 font-family: 'MuseoModerno', cursive;
+	 color: #0A122A;
+     font-weight: 300;
+     font-size: 40px;
+     height: 180px;
+    background-size: cover;
+    background-position: center;
+   /* color: white;
+    */
+    /* border-radius: 6px; */
+    box-shadow: 2px 2px 3px #aba1a9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#footer {
+	background-color: #414a4c;
+    color: whitesmoke;
+    margin: 2px 2px;
+    padding: 30px 30px;
+    border-radius: 5px;
+}
+
+#footer a {
+	color:#DBBEA1
+}
+
+#footer a:hover {
+	color: #F8F2DC
+}
